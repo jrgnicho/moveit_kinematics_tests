@@ -1,1 +1,0 @@
-rosrun moveit_kinematics create_ikfast_moveit_plugin.py test_kuka_kr210 manipulator kuka_kr210_manipulator_ik_plugin src/test_kuka_kr210_manipulator_ikfast_solver.cpp
